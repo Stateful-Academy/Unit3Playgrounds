@@ -1,0 +1,34 @@
+{
+    "people": [
+        {
+            "name": "Matt",
+            "age": 24,
+            "hobbies": ["Soccer", "Playing Piano", "Running"],
+            "enjoys_pinapple_on_pizza": false
+        },
+        {
+            "name": "Sofia",
+            "age": 32,
+            "hobbies": ["Pickleball", "Reading", "Yoga"],
+            "enjoys_pinapple_on_pizza": false
+        },
+        {
+            "name": "Jerry",
+            "age": 56,
+            "hobbies": ["Photography", "Hiking"],
+            "enjoys_pinapple_on_pizza": true
+        },
+        {
+            "name": "Alex",
+            "age": 19,
+            "hobbies": ["Spikeball"],
+            "enjoys_pinapple_on_pizza": false
+        },
+        {
+            "name": "Alison",
+            "age": 40,
+            "hobbies": ["Watching TV", "Walking her dog"],
+            "enjoys_pinapple_on_pizza": true
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Matt",
+    "age": 24,
+    "hobbies": ["Soccer", "Playing Piano", "Running", "Reading"],
+    "enjoys_pinapple_on_pizza": false
+}
