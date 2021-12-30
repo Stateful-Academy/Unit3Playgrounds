@@ -1,5 +1,10 @@
 //: [Previous](@previous)
 
+// TODOS:
+//   - NAMING
+//   - Multiple Protocol Conformance
+//   - Polymophism & Typecasting
+
 import Foundation
 
 // MARK: - Multiple Protocols
